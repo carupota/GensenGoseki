@@ -1,6 +1,6 @@
 ## ゲーム内で所持できる現実的な数まで厳選した護石のリスト
 [スキルシミュ(泣)](https://mhrise.wiki-db.com/sim/)インポート用 https://raw.githubusercontent.com/carupota/GensenGoseki/main/NakiSimu_Import.txt  
-[RiseCharmEditor](https://pages.github.com/)インポート用 https://raw.githubusercontent.com/carupota/GensenGoseki/main/RiseCharmEditor_Import.txt  
+RiseCharmEditorインポート用 https://raw.githubusercontent.com/carupota/GensenGoseki/main/RiseCharmEditor_Import.txt  
 
 厳選方法    
 護石に付くスキルは101種類なので全て最大の護石の組み合わせは10100種類  
